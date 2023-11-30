@@ -1,0 +1,8 @@
+.bgimg{
+    background-image: url("../Assets/bgImage.jpeg");
+    
+}
+body {
+    margin: 0;
+    padding: 0;
+  }

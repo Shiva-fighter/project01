@@ -1,0 +1,14 @@
+
+  .bgimg{
+    background-image: url("../Assets/bgImage.jpeg");
+    background-size: cover;
+    /* padding-top: 18px; */
+}
+  
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("../Assets/bgImage.jpeg");
+  
+
+}
